@@ -1,5 +1,3 @@
-# cassandra_ycsb_test
-
 Cassandra YCSB Test On AWS
 ==========================
 
